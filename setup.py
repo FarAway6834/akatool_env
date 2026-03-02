@@ -8,8 +8,7 @@ setup(
     author_email='dutec6834@gmail.com',
     url='https://github.com/FarAway6834/edprompt_env',
     packages=find_packages(exclude=[]),
-    install_requires=['edprompt'],
-    keywords=['python', 'shell', 'prompt', 'cli', 'editer', 'joke' 'saver', 'edprompt', 'env', 'edpromptenv', 'edprompt_env'],
+    install_requires=['akatoollite_env', 'akatool'],
     python_requires='>=3.13',
     package_data={},
     classifiers=[
